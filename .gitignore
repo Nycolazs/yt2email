@@ -1,0 +1,4 @@
+.env
+.nvmrc
+package-lock.json
+node_modules/
